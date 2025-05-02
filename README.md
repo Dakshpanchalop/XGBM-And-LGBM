@@ -1,1 +1,1 @@
-# Xtreme Gradient Boosting Method & Light Gradient Boosting Method
+# Xtreme Gradient Boosting Machine & Light Gradient Boosting Machine
